@@ -4,13 +4,13 @@ Here are a bit of work i've made during my Ph.D thesis, it concern clustering ev
 
 ## For the moment
 
-# Internal indexes
+### Internal indexes
 * Scala
   * Davies Bouldin
   * Silhouette
 
 ## Coming
 
-# Internal indexes
+### Internal indexes
 * Spark
   * Davies Bouldin
